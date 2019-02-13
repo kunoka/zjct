@@ -1,6 +1,11 @@
 {
   "success": true,
   "data": {
+    "userInfo": {
+      "name" : "洪璐",
+      "toDoListCount": 12,
+      "messageCount": 32
+    },
     "commonFuncList": [
       {
         "pic": "asset/image/index/u37.png",
@@ -53,6 +58,104 @@
         "image": "asset/image/index/u98.png",
         "title": "周忠杰 发布了新的主生产计划",
         "time": "2小时前"
+      }
+    ],
+    "resourceStrictList": [
+      {
+        "image": "asset/image/index/u188.svg",
+        "name": "经营目标"
+      },
+      {
+        "image": "asset/image/index/u164.svg",
+        "name": "码段资源"
+      },
+      {
+        "image": "asset/image/index/u245.svg",
+        "name": "内销工业存销比"
+      },
+      {
+        "image": "asset/image/index/u180.svg",
+        "name": "成品库存"
+      },
+      {
+        "image": "asset/image/index/u108.svg",
+        "name": "自产产能管理"
+      },
+      {
+        "image": "asset/image/index/u115.svg",
+        "name": "合作加工产能"
+      }
+    ],
+    "planAndDispatch": [
+      {
+        "image": "asset/image/index/u128.svg",
+        "name": "自产主生产计划"
+      },
+      {
+        "image": "asset/image/index/u196.svg",
+        "name": "合作加工主生产计划"
+      },
+      {
+        "image": "asset/image/index/u204.svg",
+        "name": "贴码计划"
+      },
+      {
+        "image": "asset/image/index/u212.svg",
+        "name": "合作加工日计划"
+      },
+      {
+        "image": "asset/image/index/u221.svg",
+        "name": "自产日排产计划"
+      },
+      {
+        "image": "asset/image/index/u229.svg",
+        "name": "发运计划"
+      },
+      {
+        "image": "asset/image/index/u237.svg",
+        "name": "物资采购计划"
+      },
+      {
+        "image": "asset/image/index/u301.svg",
+        "name": "自产工作日历调整"
+      }
+    ],
+    "globalMonitor": [
+      {
+        "image": "asset/image/index/u172.svg",
+        "name": "产销存平衡"
+      },
+      {
+        "image": "asset/image/index/u253.svg",
+        "name": "协议执行监控"
+      },
+      {
+        "image": "asset/image/index/u261.svg",
+        "name": "库存监控"
+      },
+      {
+        "image": "asset/image/index/u135.svg",
+        "name": "采购执行监控"
+      },
+      {
+        "image": "asset/image/index/u142.svg",
+        "name": "经营目标监控"
+      },
+      {
+        "image": "asset/image/index/u276.svg",
+        "name": "自产生产监控"
+      },
+      {
+        "image": "asset/image/index/u268.svg",
+        "name": "合作生产监控"
+      },
+      {
+        "image": "asset/image/index/u283.svg",
+        "name": "质量监控"
+      },
+      {
+        "image": "asset/image/index/u290.svg",
+        "name": "发行执行监控"
       }
     ]
   }

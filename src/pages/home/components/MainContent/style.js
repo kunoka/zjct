@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const MainContent = styled.div`
+export const Content = styled.div`
   display: flex;
   // border:1px solid green;
   margin-top: 16px;
@@ -51,6 +51,10 @@ export const LeftContentModule = styled.div`
   margin-top: 10px;
   padding: 25px 20px;
   cursor: pointer;
+  transition: all .2s ease-in;
+  &:hover {
+    box-shadow: 0 0 4px gray;  
+  }
   .module-title {
     // border:1px solid red;
     height: 40px;

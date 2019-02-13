@@ -8,7 +8,7 @@ export const HeaderWrapper = styled.div`
   z-index:1;
   position: relative;
   height: 60px;
-  max-width: 1400px;
+  // max-width: 1400px;
   // border: 1px solid red;
   border-bottom: 1px solid #F0F0F0;
   background-color: rgba(253, 253, 253, 1);

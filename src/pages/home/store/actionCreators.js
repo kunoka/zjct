@@ -1,12 +1,15 @@
 import axios from 'axios';
-import {fromJS} from 'immutable';
 import {constants} from '../store';
 
 const setHomeData = (result) => {
   const action = {
     type: constants.SET_HOME_DATA,
+    userInfo: result.userInfo,
     commonFuncList: result.commonFuncList,
-    activityList: result.activityList
+    activityList: result.activityList,
+    resourceStrictList: result.resourceStrictList,
+    planAndDispatch: result.planAndDispatch,
+    globalMonitor: result.globalMonitor
   }
   return action;
 }
