@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "data": {
+    "commonFuncList": [
+      {
+        "pic": "asset/image/index/u37.png",
+        "name": "主生产计划",
+        "desc": "年度、季度、月度生产与备料计划查看、模拟、调试和发布"
+      },
+      {
+        "pic": "asset/image/index/u48.png",
+        "name": "内销滚动预测",
+        "desc": "成品内销的年度、和滚动销售预测的查看"
+      },
+      {
+        "pic": "asset/image/index/u48.png",
+        "name": "产销存平衡",
+        "desc": "产看成品库存、生产、销售情况，实时监控可能的断供和库存积压"
+      },
+      {
+        "pic": "asset/image/index/u63.png",
+        "name": "自产生产监控",
+        "desc": "监控杭州和宁波两厂的生产计划执行情况"
+      },
+      {
+        "pic": "asset/image/index/u37.png",
+        "name": "自产产能管理",
+        "desc": "查看和调整杭州和宁波两厂的工作日历，机台开动情况"
+      },
+      {
+        "pic": "asset/image/index/u37.png",
+        "name": "主生产计划",
+        "desc": "年度、季度、月度生产与备料计划查看、模拟、调试和发布"
+      }
+    ],
+    "activityList": [
+      {
+        "image": "asset/image/index/u28.jpg",
+        "title": "洪玔 发布了新的主生产计划",
+        "time": "2小时前"
+      },
+      {
+        "image": "asset/image/index/u86.jpg",
+        "title": "高惠惠 发布了新的主生产计划",
+        "time": "1天前"
+      },
+      {
+        "image": "asset/image/index/u28.jpg",
+        "title": "张现明 发布了新的主生产计划",
+        "time": "3天前"
+      },
+      {
+        "image": "asset/image/index/u98.png",
+        "title": "周忠杰 发布了新的主生产计划",
+        "time": "2小时前"
+      }
+    ]
+  }
+}
+
